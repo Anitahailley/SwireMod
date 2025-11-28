@@ -1,0 +1,14 @@
+{
+  "Swire_the_Elegant_Wit:Guineas": {
+    "NAME": "金币",
+    "DESCRIPTIONS": [
+      "当 #y金币的数>=最大生命值，可以消耗所有金币免疫一次致命伤害,每场战斗仅一次。目前有%d枚#y金币。"
+    ]
+  },
+  "Swire_the_Elegant_Wit:ItinerantTraderP": {
+    "NAME": "耗能加钱",
+    "DESCRIPTIONS": [
+      "每消耗一个能量，获得一枚金币。"
+    ]
+  }
+}

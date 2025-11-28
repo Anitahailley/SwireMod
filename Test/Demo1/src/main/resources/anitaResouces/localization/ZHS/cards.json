@@ -1,0 +1,16 @@
+{
+  "Swire_the_Elegant_Wit:Strike": {
+    "NAME": "mod的打击",
+    "DESCRIPTION": "造成 !D! 点伤害。",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 造成 !D! 点伤害。"
+  },
+  "Swire_the_Elegant_Wit:XStrike": {
+    "NAME": "mod的X攻击",
+    "DESCRIPTION": "造成 !D! 点伤害X次。",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 造成 !D! 点伤害X次。"
+  },
+  "Swire_the_Elegant_Wit:ItinerantTrader": {
+    "NAME": "卡牌-耗能加金币",
+    "DESCRIPTION": "获得一层 swire_the_elegant_wit:关键字耗能加金币 "
+  }
+}

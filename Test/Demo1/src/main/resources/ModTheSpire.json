@@ -1,0 +1,10 @@
+{
+  "modid": "Swire_the_Elegant_Wit",
+  "name": "琳琅诗怀雅",
+  "author_list": ["AnitaHailey"],
+  "description": "这是一个明日方舟角色相关的mod",
+  "version": "0.0.1",
+  "sts_version": "12-18-2022",
+  "mts_version": "3.30.3",
+  "dependencies": ["basemod"]
+}
